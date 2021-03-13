@@ -1,0 +1,129 @@
+.papa{
+	position: absolute;
+	top: 20px;
+	left: 200px;
+	height: 650px;
+	width: 1000px;
+	border-radius: 5px;
+	background: red;
+	border:solid 5px black;
+}
+
+.hijo1{
+	position: absolute;
+	top: 10px;
+	left: 380px;
+	height: 30px;
+	width: 250px;
+	background: blue;
+	border-radius: 5px;
+	border:solid 5px black;
+	text-align: center;
+}
+.hijo2{
+	position: absolute;
+	top: 100px;
+	left: 10px;
+	height: 500px;
+	width: 450px;
+	background: blue;
+	border-radius: 5px;
+	border:solid 5px black;
+	text-align: center;
+}
+.texto1{ 
+	position: absolute;
+	top: 10px;
+	left: 100px;
+	height: 20px;
+	width: 200px;
+	background: red;
+	border-radius: 5px;
+	border:solid 5px black;
+	text-align: center;
+
+ }
+ .texto2{ 
+	position: absolute;
+	top: 50px;
+	left: 10px;
+	height: 290px;
+	width: 420px;
+	background: red;
+	border-radius: 5px;
+	border:solid 5px black;
+	text-align: center;
+
+ }
+
+ .hijo3{
+	position: absolute;
+	top: -5px;
+	left: 500px;
+	height: 500px;
+	width: 450px;
+	background: blue;
+	border-radius: 5px;
+	border:solid 5px black;
+	text-align: center;
+}
+.texto3{ 
+	position: absolute;
+	top: 10px;
+	left: 130px;
+	height: 20px;
+	width: 200px;
+	background: red;
+	border-radius: 5px;
+	border:solid 5px black;
+	text-align: center;
+
+ }
+ .texto4{ 
+	position: absolute;
+	top: 50px;
+	left: 10px;
+	height: 290px;
+	width: 420px;
+	background: red;
+	border-radius: 5px;
+	border:solid 5px black;
+	text-align: center;
+
+ }
+ .texto5{
+ 	position: absolute;
+	top: 360px;
+	left: 10px;
+	height: 100px;
+	width: 400px;
+	background: red;
+	border-radius: 5px;
+	border:solid 5px black;
+	text-align: center;
+    background:url(Captura.jpg);
+ }
+ .texto6{
+ 	position: absolute;
+	top: 360px;
+	left: 10px;
+	height: 100px;
+	width: 200px;
+	background: red;
+	border-radius: 5px;
+	border:solid 5px black;
+	text-align: center;
+    background:url(sol.jpg);
+ }
+ .texto7{
+ 	position: absolute;
+	top: 360px;
+	left: 230px;
+	height: 100px;
+	width: 200px;
+	background: red;
+	border-radius: 5px;
+	border:solid 5px black;
+	text-align: center;
+    background:url(Captura.jpg);
+ }
